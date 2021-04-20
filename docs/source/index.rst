@@ -2,7 +2,7 @@ Welcome to ACR computer facilities documentation!
 =================================================
 
 .. toctree::
-    :caption: Minerva
+    :caption: Minervaa
     
     System description <system_description_minerva.rst>
     How to obtain an account <account_minerva.rst> 
